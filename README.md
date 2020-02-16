@@ -5,7 +5,7 @@
 ## Table of contant:
 **Reads**  | **Links**
   -------------  | -------------
-  *class 01* | [link]()
+  *class 01* | [link](https://hussein66253.github.io/reading-notes/class01)
   *class 02*   | [link]()
   *class 03* | [link]()
   *class 04*   | [link]()
