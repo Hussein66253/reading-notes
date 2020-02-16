@@ -18,4 +18,10 @@ XHTML	    | 2000
 HTML5       | 2014
 - To make HTML5 elements work in *Internet Explorer 8*
 (and older versions of IE), **extra JavaScript** is needed which we can git it for free from Google.
-
+## What is "script"?
+- A script is a series of instructions that the computer can follow in order to achieve a goal.   
+#### Objects and Methods:
+- Each line writhen in the JavaScript is conten **Object** and **Method** for example:  
+- > document.write('Hello world')
+1. ***document*** is the *object*
+2. ***write('Hello world')*** is the *method*
