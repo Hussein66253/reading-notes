@@ -22,6 +22,7 @@ HTML5       | 2014
 - A script is a series of instructions that the computer can follow in order to achieve a goal.   
 #### Objects and Methods:
 - Each line writhen in the JavaScript is conten **Object** and **Method** for example:  
-- > document.write('Hello world')
+- > document.write('Hello world') 
+
 1. ***document*** is the *object*
 2. ***write('Hello world')*** is the *method*
