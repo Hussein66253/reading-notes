@@ -7,7 +7,7 @@
   -------------  | -------------
   *class 01* | [link](https://hussein66253.github.io/reading-notes/class01)
   *class 02*   | [link](https://hussein66253.github.io/reading-notes/calss-02)
-  *class 03* | [link]()
+  *class 03* | [link](https://hussein66253.github.io/reading-notes/class-03)
   *class 04*   | [link]()
   *class 05* | [link]()
   *class 06*   | [link]()
