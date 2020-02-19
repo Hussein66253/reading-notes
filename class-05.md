@@ -15,7 +15,8 @@ about the image, most browsers will display the content of this attribute in a t
 - So te image tag will be like this:    
 < img src=""    
      alt=""     
-     title="">
+     title="">  
+     
      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png"    
      alt="Stranger Things TV series "     
      title="STRANGER THINGES logo">
