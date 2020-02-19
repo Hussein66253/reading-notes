@@ -13,13 +13,13 @@ image.
 - we can also add an attributeand it is **title** to provide additional information
 about the image, most browsers will display the content of this attribute in a tooltip when the user hovers over the image.
 - So te image tag will be like this:    
-< img src=""    
-     alt=""     
-     title="">  
-     
-     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png"    
-     alt="Stranger Things TV series "     
-     title="STRANGER THINGES logo">
+<img src=""     
+alt=""  
+title="">  
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png"    
+alt="Stranger Things TV series "     
+title="STRANGER THINGES logo">
 
 ## Color:
 - The CSS color property defines the foreground color of the text content for an element.
