@@ -1,6 +1,6 @@
 # class 05
 ## Images:
-- Usually, when we open any website the first thing our eyes see it is the images(if there are ones) so it plays a vital role on the website. 
+- Usually, when we open any website the first thing our eyes see is the images(if there are ones) so it plays a vital role on the website. 
 #### How to add an image to the website:
 - First we need to know the tag used for the image, the tag is < img>.
 - < img> tag is an empty
@@ -8,7 +8,7 @@ element ( which means there is
 no closing tag)
 - Any < img> tag must contain the following two attributes: 
 1. **src**: This tells the browser where it can find the image file, it can be a URL.   
-2. **alt**: In case  that image it doesn't appear to the user it will show an alternative text that describes the
+2. **alt**: In case  that image doesn't appear to the user it will show an alternative text that describes the
 image.
 - we can also add an attribute and it is the **title** to provide additional information
 about the image, most browsers will display the content of this attribute in a tooltip when the user hovers over the image.
@@ -40,7 +40,7 @@ color in CSS in one of four ways:
   - An example is:  
   	hsl(195, 100%, 50%) 
 
-- wWhen we chooes a color we must to put in consdration that there is enough contrast between any text and the background color (otherwise people will not be able to read your content).
+- When we choose a color we must to put in consideration that there is enough contrast between any text and the background color (otherwise people will not be able to read your content).
 ## Text:
 - To control the choice of font, size, weight, style, and spacing we can use some properties to do it(*letter-spacing*).  
 - For spacing we can control the space between lines of text, individual letters, and words.
