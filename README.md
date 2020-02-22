@@ -10,7 +10,7 @@
   *class 03* | [link](https://hussein66253.github.io/reading-notes/class-03)
   *class 04*   | [link](https://hussein66253.github.io/reading-notes/class-04)
   *class 05* | [link](https://hussein66253.github.io/reading-notes/class-05)
-  *class 06*   | [link]()
+  *class 06*   | [link](https://hussein66253.github.io/reading-notes/class-06)
   *class 07* | [link]()
   *class 08*   | [link]()
   *class 09* | [link]()
